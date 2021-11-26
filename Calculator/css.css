@@ -1,14 +1,26 @@
 * {
     /* text-align: center justify; */
     font-family: 'Product Sans';
+    font-size: 20px;
+    text-align: center;
 }
 
 .calculator {
-    padding-left: 15px;
-    
-   
-
-    margin: 0 auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    /* padding-top: 5px; */
+    text-align: center;
+    margin: auto;
+    height: 36vh;
 }
 
+#Output {
+    height: 10vh;
+    padding-top: 20px;
+    margin: auto;
+}
+
+h1 {
+    padding-top: 10px;
+}
 
